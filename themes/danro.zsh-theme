@@ -1,0 +1,1 @@
+/Users/dan/.dotfiles/zsh/danro.zsh-theme
